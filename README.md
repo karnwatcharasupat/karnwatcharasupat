@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌈 karn watcharasupat
+🌈 karn watcharasupat :: chemically treated lab cat
 
-🐱 chemically treated lab cat
+🏫 ntu eee x gtcmt 
 
-🏫 NTU EEE x GTCMT 
+🔗 [portfolio](https://karn-watcharasupat.herokuapp.com/)
+
